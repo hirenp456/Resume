@@ -1,6 +1,7 @@
 # HIRENKUMAR  PATEL     
 ## Computer Science Intern
-2048695185 &nbsp; &nbsp; &nbsp; hirenp25798@gmail.com 
+2048695185
+hirenp25798@gmail.com 
 201-919 Chancellor Drive, Winnipeg, Manitoba. R3T6B5
 # Education
 ------------
